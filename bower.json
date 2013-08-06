@@ -1,0 +1,12 @@
+{
+  "name": "JSCSSP",
+  "version": "0.1.1",
+  "main": "cssParser.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
